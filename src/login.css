@@ -1,0 +1,43 @@
+.logincontainer{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;  
+}
+
+.logotitle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{    
+    border-radius: 10px;     
+    background-color: white;
+    box-shadow: 2px 4px #e6e5e5;
+    margin: 1.5rem;
+    padding: 1.5rem;
+}
+
+.logo{
+    box-shadow: 2px 4px #e6e5e5;
+    width: 23rem;
+    height: 10rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    border-radius: 10px; 
+}
+
+.loginbox {       
+    width: 300px;
+    box-shadow: 2px 4px #e6e5e5;
+    background-color: white;
+    border-radius: 10px;    
+    margin: 1.5rem;
+    padding: 1.5rem;
+    display: flex;
+    justify-content: center;
+}
+

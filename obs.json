@@ -1,0 +1,78 @@
+{
+  "eerokos": [
+    {
+      "tosleep": "2021-03-15T20:30:00.321Z",
+      "fromsleep": "2021-03-16T05:39:43.321Z",
+      "range": 4,
+      "desc": "Ookoo",
+      "totalHours": 9.161944444444444,
+      "id": 1
+    },
+    {
+      "tosleep": "2021-03-15T18:11:08.624Z",
+      "fromsleep": "2021-03-16T05:11:08.624Z",
+      "range": 4,
+      "desc": "",
+      "totalHours": 11,
+      "id": 2
+    },
+    {
+      "tosleep": "2021-03-15T18:11:43.207Z",
+      "fromsleep": "2021-03-16T05:11:43.207Z",
+      "range": 5,
+      "desc": "",
+      "totalHours": 11,
+      "id": 3
+    },
+    {
+      "tosleep": "2021-03-15T18:42:57.885Z",
+      "fromsleep": "2021-03-16T05:42:57.885Z",
+      "range": 5,
+      "desc": "",
+      "totalHours": 11,
+      "id": 4
+    },
+    {
+      "tosleep": "2021-03-15T18:54:51.742Z",
+      "fromsleep": "2021-03-16T05:54:51.742Z",
+      "range": 4,
+      "desc": "",
+      "totalHours": 11,
+      "id": 5
+    },
+    {
+      "tosleep": "2021-03-15T18:54:53.561Z",
+      "fromsleep": "2021-03-16T05:54:53.561Z",
+      "range": 3,
+      "desc": "",
+      "totalHours": 11,
+      "id": 6
+    },
+    {
+      "tosleep": "2021-03-15T18:54:58.015Z",
+      "fromsleep": "2021-03-16T05:54:58.015Z",
+      "range": 5,
+      "desc": "Seliseli",
+      "totalHours": 11,
+      "id": 9
+    }
+  ],
+  "oonaran": [
+    {
+      "tosleep": "2021-03-14T20:00:00.070Z",
+      "fromsleep": "2021-03-15T06:00:00.070Z",
+      "range": 5,
+      "desc": "Lisää Myöhemmin",
+      "totalHours": 10,
+      "id": 1
+    },
+    {
+      "tosleep": "2021-03-13T21:30:00.000Z",
+      "fromsleep": "2021-03-14T09:15:00.000Z",
+      "range": 4,
+      "desc": "Lisää myöhemmin",
+      "totalHours": 11.75,
+      "id": 2
+    }
+  ]
+}

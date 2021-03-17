@@ -1,0 +1,53 @@
+.box {    
+    min-height: 500px;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.18);
+    background-color: white;
+    border-radius: 10px;    
+    margin: 2rem;
+    padding: 2rem;
+    max-width: 80%;
+}
+
+.databox{
+    min-width: 60%;
+}
+
+form > *{
+    margin-bottom: 2rem;
+}
+
+textarea{
+    font-size: small;
+    outline: none;
+    min-height: 60px;
+}
+
+.iconbtn{
+    cursor: pointer;
+    margin: 0.5rem;
+}
+
+table{
+    text-align: center;    
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 0.3rem;    
+}
+
+tbody tr:nth-child(odd){
+    background: #eee;
+}
+
+.modal{    
+    padding: 2rem;    
+    border-radius: 10px;    
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    outline: none;
+    background-color: white;
+}
