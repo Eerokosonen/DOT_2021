@@ -12,7 +12,8 @@ The sleep tracking tool collects data about the slept hours, an assessment of th
 The sleep tracking tool could be logged in with user IDs (the uni e-mail), which could be used to collect data on usage activity. 
 
 ## How the app was made:
-Using a front-end framework called React etc...
+The app was built using React and standard CSS styling. The login functionality was just for demonstration with no backend. 
+All of the user input data was stored in a JSON-file, and read and wrote using a Node.js REST API.
 
 ## Demo video of the app found at:
 https://youtu.be/0QT9dppCfd8
